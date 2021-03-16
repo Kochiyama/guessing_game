@@ -18,3 +18,16 @@ In this project I've learned about:
   - break
   - continue
 - Error handling
+
+## Dependencies
+
+If you want to try this project you will only need to have:
+
+- git
+- rust (with cargo)
+
+## Try it on your computer
+
+1. First things first, clone this repo
+2. Then cd into the project directory
+3. And finally run ´cargo run´ to compile and run this little guess game
